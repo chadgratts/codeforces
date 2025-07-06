@@ -1,2 +1,2 @@
 # codeforces
-My $olutions
+my $olutions
